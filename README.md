@@ -1,4 +1,4 @@
-# DDU Stack Resources 📚
+# DDU Stack Resources
 
 This repository contains course materials categorized by departments and academic years for the DDU Stack application. It serves as a centralized resource hub from which the app fetches and downloads study materials.
 
